@@ -1,16 +1,45 @@
 ## Hi there 👋
+# ⚡ ERROR 404: IDENTITY FOUND // COGNITIVE OPERATIONS CENTER ⚡
 
-<!--
-**wyvern-uni/wyvern-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Cyberpunk Animated Typing Intro Header -->
+  <img src="https://demolab.com;>+CYBERSECURITY+STUDENT;>+AI+%2F+BCI+INFRASTRUCTURE+DEFENSE;>+STATUS%3A+ACTIVE" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Glowing Animated Visual Element -->
+  <img src="https://vercel.app" alt="Capsule Render" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ CYBER SECURITY TOOLSTACK & LOGS
+
+### 🛡️ Core Research & Defenses
+* 🖥️ **NGFW Deep Packet Inspection Engines** — Built with real-time token/particle stream parsing pipelines.
+* 🤖 **LLM Prompt Injection Mitigation (OWASP Top 10)** — Guardrail firewalls checking contextual inputs for jailbreaks.
+* 🧠 **Neural Telemetry Tracking** — Parsing synthetic BCI data lines for cognitive layer isolation threats.
+
+### ⚡ Technologies & Frameworks
+<p align="left">
+  <!-- Animated Technology Badges -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+## 📊 LIVE OPERATIONS ANALYTICS
+
+<p align="center">
+  <!-- Live GitHub Stats with a Custom Cyber Dark Theme -->
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <!-- Most Used Languages Graph -->
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com" alt="Visitor Counter" />
+</p>
