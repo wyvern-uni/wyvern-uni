@@ -15,7 +15,7 @@
 
 Year 2 cybersecurity student focused on **API & application security** — certified in API Security Fundamentals (APIsec University, Oct 2026). Currently building fundamentals through TryHackMe labs and documenting everything here.
 
-📜 [Full certification list →](https://github.com/YOUR_USERNAME/certifications)
+📜📜 [Full certification list →](https://github.com/wyvern-uni/certifications)
 
 ## 📚 Currently Learning
 
